@@ -1,1 +1,3 @@
 # Melosphere-An-Online-Music-Streaming-Platform
+
+Melosphere is an online music streaming platform developed as part of our CSE370 Database Systems course. The system allows users to register, log in, stream songs, and manage their playlists and favorite tracks. Admins can upload and remove songs, ensuring the platform remains updated. Built using PHP, MySQL, HTML, and CSS, Melosphere features a dynamic interface with personalized settings, song search functionality, and play count tracking. The project emphasizes user experience, backend integration, and database management, offering a smooth, ad-free music experience focused on copyright-free songs.
